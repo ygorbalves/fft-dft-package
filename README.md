@@ -1,8 +1,6 @@
 # fourier_transforms
 
-The package fourier_transforms is used to:
-	- Fast Fourier Transform (FFT)
-	- Discrete Fourier Transform (DFT)
+The package fourier_transforms is used to realize Fast Fourier Transform (FFT) and Discrete Fourier Transform (DFT).
 
 ## Installation
 
